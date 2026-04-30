@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"D:\\\\Program_project\\\\??????\\\\dear\\\\Scripts\\\\pip.exe\" freeze 2>&1)"
+    ]
+  }
+}
